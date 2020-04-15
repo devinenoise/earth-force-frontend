@@ -20,7 +20,7 @@
 
 #   5. Built With:
     *React
-    *NodJS
+    *NodeJS
     *Heroku
     *SQL 
     *Google-React-Maps V.2.2
@@ -29,7 +29,7 @@
     Video-React V.0.14.01
 
 #   6. Defined Endpoints
-    Two defined get routes including a single api fetch to display natural events by category and second get route pull the favorites from our database. Our post route allows users to insert their tracked events into the SQL database that, that seeded information includes the user_id, title (of the natural event), and the original date of the natural event.
+    Two defined get routes including a single API fetch to display natural events by category and second get route pull the favorites from our database. Our post route allows users to insert their tracked events into the SQL database that seeded information includes the user_id, title (of the natural event), and the original date of the natural event.
 
 #   7. Data Base Schemas
     Favorites Table
