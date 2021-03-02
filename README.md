@@ -3,6 +3,10 @@
 
 Deployed Site - http://earth-force.herokuapp.com/
 
+https://github.com/devinenoise/earth-force-frontend/blob/master/screenshot%201.png
+https://github.com/devinenoise/earth-force-frontend/blob/master/screenshot%202.png
+https://github.com/devinenoise/earth-force-frontend/blob/master/screenshot%203.png
+
 #   1. Earth-Force Team (Contributors): 
         * Nick Roberto
         * Kyle Devine
@@ -22,9 +26,6 @@ Deployed Site - http://earth-force.herokuapp.com/
     despite these impacts, these events happen with such frequency it becomes difficult to remember 
     or distinguish them over time. In an effort to help individuals connect with these periods of 
     severe weather, we wanted to build an application that helps people stay monitor these events globally. 
-
-#   4. Version
-    1.0.0
 
 #   5. Built With:
     *React
